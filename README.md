@@ -1,2 +1,2 @@
 # artefatosope
-Artefatos OPE
+Artefatos OPE para a empresa Iaia Modas.
